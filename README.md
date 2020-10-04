@@ -1,4 +1,11 @@
-# Blog con PHP
+# Basic blog website
 
-Blog básico creado con PHP, se uso codificación básica para la creación sin modelo MVC ni POO.
-La finalidad de este blog fue el estudio del uso básico de PHP.
+Basic blog website made purely on PHP.
+
+## Features
+
+- Full login and registration system
+- Upload and administer articles
+- Create and administer categories
+
+> This webpage was made using HTML5, CSS3 and PHP.
